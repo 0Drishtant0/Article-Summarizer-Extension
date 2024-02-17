@@ -1,0 +1,9 @@
+#hiding the model and dataset files
+
+tokenizers/
+pegasus-c3PO/
+articles_df.pkl
+openhack_idea.pptx
+#also hiding the vectorizer
+vectorizer.pkl
+article_model.joblib

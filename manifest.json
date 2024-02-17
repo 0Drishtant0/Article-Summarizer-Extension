@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Data Summarizer",
+    "version": "1.0",
+    "description": "chrome extension to extend summify that summarized your articles and proviedes suggestions",
+    "permissions": [
+      "tabs"
+    ],
+    "action": {
+      "default_popup": "extension/popup.html",
+      "default_icon": {
+        "16": "images/iiitn.png",
+        "32": "images/iiitn.png",
+        "48": "images/iiitn.png",
+        "128": "images/iiitn.png"
+      }
+    },
+    "icons": {
+      "16": "images/iiitn.png",
+      "32": "images/iiitn.png",
+      "48": "images/iiitn.png",
+      "128": "images/iiitn.png"
+  }
+  }
