@@ -1,0 +1,6 @@
+#hiding the model and dataset
+tokenizers/
+pegasus-c3PO/
+articles_df.pkl
+article_model.joblib
+openhack_idea.pptx
